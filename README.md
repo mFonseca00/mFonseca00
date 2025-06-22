@@ -48,7 +48,7 @@ Eu sou **Marcus Fonseca**, um desenvolvedor apaixonado por tecnologia que está 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mFonseca00&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mFonseca00&theme=dark)
 
 </div>
 
