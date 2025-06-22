@@ -14,7 +14,7 @@ Estou sempre aberto a novas oportunidades e conexões na área de programação.
 
 ### Contatos:
 
-**Email:** mv070900@gmail.com 
-**LinkedIn:** Marcus Fonseca 
-**Telefone:** (71) 99253-9993 
-**Localização:** Salvador - BA
+[![Email](https://img.shields.io/badge/Email-mv070900%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mv070900@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus~fonseca)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(71)%2099253--9993-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992539993)
+[![Localização](https://img.shields.io/badge/Localização-Salvador%20--%20BA-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Salvador,BA)
