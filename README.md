@@ -18,3 +18,18 @@ Estou sempre aberto a novas oportunidades e conexões na área de programação.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus~fonseca)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(71)%2099253--9993-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992539993)
 [![Localização](https://img.shields.io/badge/Localização-Salvador%20--%20BA-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Salvador,BA)
+
+### 📊 Estatísticas do GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mFonseca00&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mFonseca00&layout=compact&theme=dark)
+
+### 🔥 GitHub Streak:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mFonseca00&theme=dark)
+
+### 🏆 GitHub Trophy:
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mFonseca00&theme=darkhub&column=7)
+
