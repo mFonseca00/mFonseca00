@@ -28,9 +28,9 @@ Eu sou **Marcus Fonseca**, um desenvolvedor apaixonado por tecnologia que está 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧%20Email-mv070900%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mv070900@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Marcus%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus~fonseca)
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-(71)%2099253--9993-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992539993)
-[![Localização](https://img.shields.io/badge/📍%20Salvador-Bahia-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Salvador,BA)
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-Marcus%20Fonseca-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus~fonseca)
+[![WhatsApp](https://img.shields.io/badge/%20WhatsApp-(71)%2099253--9993-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992539993)
+[![Localização](https://img.shields.io/badge/%20Salvador-Bahia-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Salvador,BA)
 
 </div>
 
@@ -48,7 +48,7 @@ Eu sou **Marcus Fonseca**, um desenvolvedor apaixonado por tecnologia que está 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mFonseca00&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mFonseca00&theme=tokyonight)
 
 </div>
 
