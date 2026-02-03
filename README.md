@@ -17,9 +17,9 @@ Eu sou **Marcus Fonseca**, um desenvolvedor apaixonado por tecnologia que está 
 🎓 **Formação:** Estudante de **Análise e Desenvolvimento de Sistemas** no **IFBA - Campus Salvador**, sempre buscando aprimorar minhas habilidades!
 
 ## 💼 Foco Atual:
-- 🧠 **Mindset:** Aprendizado contínuo
-- 🎨 **Especialização:** Tenho buscado me desenvolver em Backend com Java & Spring Boot
-- 🌟 **Objetivo 2025:** Dominar o mundo... ops, dominar o Spring Framework! 😄
+- 🧠 **Mindset:** Modo esponja de novas ideias (e de energético) ativado.
+- 🎨 **Especialização:** Java, Spring Boot e aprendendo a criar Agentes de IA.
+- 🌟 **Objetivo 2026:** Integrar Agentes de IA tão bem que eles aprendam a resolver os bugs antes mesmo de eu criá-los! 🛠️✨
 
 **Vamos conectar?** Adoro trocar experiências sobre desenvolvimento e tecnologia! 💻
 
